@@ -1,2 +1,3 @@
 # Operating-System
-A python based operating system simulator.
+
+Python based operating system simulator
